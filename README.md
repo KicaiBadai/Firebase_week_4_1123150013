@@ -1,3 +1,5 @@
+## README.md yang sudah dirapikan:
+
 # Firebase_week_4_1123150013
 
 ### Cara Login Firebase & Buat Project Baru
@@ -80,6 +82,47 @@
 <img src="https://github.com/user-attachments/assets/ec83e65b-3cbf-4d1f-aecc-82f68dafeee1" width="600">
 
 ---
+
+## 📬 Testing API dengan Postman
+
+**6. Konfigurasi Request**
+
+**Endpoint:**
+<img src="https://github.com/user-attachments/assets/d9b67698-17df-4091-b737-6e0d27d56836" width="600">
+
+**Headers:**
+<img src="https://github.com/user-attachments/assets/8c40c4ca-2fe2-4ca9-9883-ee0cc5f77296" width="600">
+
+**Body (Raw JSON):**
+<img src="https://github.com/user-attachments/assets/2fcd2b38-997b-40a1-a8e6-d5ee30d292c6" width="600">
+
+**Response (200 OK):**
+<img src="https://github.com/user-attachments/assets/8b2e4751-3026-40d3-94e8-e7401cecdbe6" width="600">
+
+---
+
+## 📝 Membuat Script
+
+**7. Tambahkan Script**
+<img src="https://github.com/user-attachments/assets/cb8a061f-a104-4480-9593-902a7c04ee88" width="600">
+
+---
+
+**8.Sekarang Membua Email Verifikasi
+Endpoint POST 
+<img width="1075" height="110" alt="Screenshot 2026-03-12 093217" src="https://github.com/user-attachments/assets/b617fac0-8224-46a9-9812-873e5eb2a508" />
+
+Header
+<img width="1073" height="426" alt="Screenshot 2026-03-12 093351" src="https://github.com/user-attachments/assets/7870c325-bf91-4679-b286-f180f8459396" />
+
+
+Body (Raw JSON)
+<img width="1074" height="501" alt="Screenshot 2026-03-12 093403" src="https://github.com/user-attachments/assets/d9eafb69-237b-48a4-b2c1-bf265bb27c49" />
+
+Pastikan Response nya 200 OK
+
+
+
 
 ## ✅ Selesai!
 Project Firebase siap digunakan. Simpan API Key dengan aman! 🎉
