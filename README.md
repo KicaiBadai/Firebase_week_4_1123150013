@@ -108,21 +108,38 @@
 
 ---
 
-**8.Sekarang Membua Email Verifikasi
-Endpoint POST 
-<img width="1075" height="110" alt="Screenshot 2026-03-12 093217" src="https://github.com/user-attachments/assets/b617fac0-8224-46a9-9812-873e5eb2a508" />
+## 📧 Verifikasi Email
 
-Header
-<img width="1073" height="426" alt="Screenshot 2026-03-12 093351" src="https://github.com/user-attachments/assets/7870c325-bf91-4679-b286-f180f8459396" />
+**8. Kirim Email Verifikasi**
 
+**Endpoint (POST):**
+<img src="https://github.com/user-attachments/assets/b617fac0-8224-46a9-9812-873e5eb2a508" width="600">
 
-Body (Raw JSON)
-<img width="1074" height="501" alt="Screenshot 2026-03-12 093403" src="https://github.com/user-attachments/assets/d9eafb69-237b-48a4-b2c1-bf265bb27c49" />
+**Headers:**
+<img src="https://github.com/user-attachments/assets/7870c325-bf91-4679-b286-f180f8459396" width="600">
 
-Pastikan Response nya 200 OK
+**Body (Raw JSON):**
+<img src="https://github.com/user-attachments/assets/d9eafb69-237b-48a4-b2c1-bf265bb27c49" width="600">
 
+**Pastikan Response 200 OK:**
+<img src="https://github.com/user-attachments/assets/17425093-c7d6-4d5c-8764-79d140370e4d" width="600">
 
+**9. Cek Email untuk Verifikasi**
+- Buka kotak masuk email yang digunakan
+- Jika tidak ada, periksa folder **Spam**
+- Klik tautan verifikasi yang dikirim
 
+**Contoh Email Verifikasi:**
+<img src="https://github.com/user-attachments/assets/8c4a9d37-20f9-414f-8f3d-d0907f1ba67c" width="600">
+
+---
 
 ## ✅ Selesai!
 Project Firebase siap digunakan. Simpan API Key dengan aman! 🎉
+
+---
+
+### Catatan:
+- Pastikan `FIREBASE_API_KEY` diisi dengan benar
+- Untuk pengujian, gunakan email yang benar-benar dapat diakses
+- Simpan semua credential dengan aman
